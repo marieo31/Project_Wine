@@ -31,8 +31,8 @@ We will analyze the different types and regions of wine to determine (1) if the 
 - Display all plots and findings in a web page
 
 ### Plots
-- Correlation between score and price
-- Correlation between score and rating
+- Correlation between score and price (Khantapob)
+- Correlation between score and rating (Khantapob)
 - Correlation between score and region
 - Correlation between score and country
 - Sentiment analysis of description as correlated with score
